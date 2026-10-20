@@ -34,14 +34,27 @@ The atmosphere contains concentrated sulfuric acid (H2SO4) clouds. Any structure
 - **Floating platforms / cities**: Larger semi-permanent structures
 - Not ground cities — the surface is 460°C and 92 bar
 
+## NASA HAVOC Reference
+
+See **havoc-whitepaper.md** for the full whitepaper on NASA's High Altitude Venus Operational Concept (Arney & Jones, 2015) — the crewed airship study that defined the 50 km sweet spot, the five-phase exploration roadmap, FEP-Teflon solar protection (90% transmittance after 30 days in H2SO4), and the Entry-Descent-Inflation sequence.
+
+Key HAVOC specs:
+- Robotic airship: 31 m × 8 m
+- Crewed airship (Phase III): 129 m × 34 m, >1,000 m² solar array, ~70 t payload
+- 30-day crewed stay at 50 km; Phase IV extends to 1 year; Phase V = permanent cloud city
+- Total mission time ~440 days (110 out, 30 stay, 300 back)
+- Launch windows every ~1.5 years
+
 ## Open Questions
 
 - Long-term PTFE degradation under UV and thermal cycling
 - Power generation (solar is viable above clouds)
 - Water sourcing (atmospheric CO2 + hydrogen electrolysis?)
 - Radiation shielding (Venus has no magnetic field)
+- Cryogenic boil-off management for ascent vehicle propellants (HAVOC open problem — potential Nexus cooling contribution)
+- In-situ resource utilization from the CO2 atmosphere
 
 ## References
 
-- NASA HAVOC (High Altitude Venus Operational Concept)
+- NASA HAVOC (High Altitude Venus Operational Concept) — see havoc-whitepaper.md
 - ESA EnVision mission
